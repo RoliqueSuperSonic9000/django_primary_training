@@ -1,0 +1,1 @@
+# django_primary_training
